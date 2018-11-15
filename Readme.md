@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/ToolTipSeriesTemplate/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/ToolTipSeriesTemplate/MainWindow.xaml))
+<!-- default file list end -->
 # How to customize the appearance of a series tooltip
 
 
