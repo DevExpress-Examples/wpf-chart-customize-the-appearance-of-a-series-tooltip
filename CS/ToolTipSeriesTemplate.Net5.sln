@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolTipSeriesTemplate", "ToolTipSeriesTemplate\ToolTipSeriesTemplate.csproj", "{B0E5C147-A0EA-4A70-807A-13C5C7BFED3F}"
+# Visual Studio 16
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolTipSeriesTemplate", "ToolTipSeriesTemplate\ToolTipSeriesTemplate.Net5.csproj", "{B0E5C147-A0EA-4A70-807A-13C5C7BFED3F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
